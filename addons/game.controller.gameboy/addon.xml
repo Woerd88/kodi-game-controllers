@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="game.controller.gameboy"
+        name="Game Boy"
+        version="1.0.0"
+        provider-name="Woerd88">
+    <requires>
+        <import addon="kodi.game" version="1.0.0"/>
+    </requires>
+    <extension point="kodi.game.controller" library="layout.xml"/>
+    <extension point="xbmc.addon.metadata">
+        <summary>Game Boy</summary>
+        <description>The Game Boy is an 8-bit handheld video game device developed and manufactured by Nintendo.</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <nofanart>true</nofanart>
+    </extension>
+</addon>
