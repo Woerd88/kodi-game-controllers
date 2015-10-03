@@ -9,7 +9,7 @@
     <extension point="kodi.game.controller" library="layout.xml"/>
     <extension point="xbmc.addon.metadata">
         <summary>PC Engine controller</summary>
-        <description>The game controller used for both the PC Engine game console.</description>
+        <description>The game controller used for the PC Engine game console.</description>
         <disclaimer></disclaimer>
         <platform>all</platform>
         <nofanart>true</nofanart>
